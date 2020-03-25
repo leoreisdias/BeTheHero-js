@@ -1,0 +1,10 @@
+{
+    "git.ignoreLimitWarning": true,
+    "emmet.syntaxProfiles": {
+        "JavaScript": "jsx"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.triggerExpansionOnTab": true
+}
