@@ -59,7 +59,7 @@ const Incidents = () => {
                 keyExtractor={incident => String(incident.id)}
                 style={styles.incidentList}
                 data={incidents}
-                //showsVerticalScrollIndicator={false}
+                showsVerticalScrollIndicator={false}
                 onEndReached={loadIncidents}
                 onEndReachedThreshold={0.2}
                 renderItem={({ item: incident }) => (
