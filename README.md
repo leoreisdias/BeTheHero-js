@@ -1,5 +1,7 @@
 # Be The Hero
 
+![Alt Text](https://github.com/leoreisdias/BeTheHero-js/blob/master/frontend/src/assets/logo.svg)
+
 ## Aplicação para ONG's e heróis
 
 Aplicação voltada a publicação de casos por ONG's de diferentes cidades e regiões.
